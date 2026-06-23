@@ -66,7 +66,7 @@ def train(
     test_dataloader: torch.utils.data.DataLoader,
     optimizer: torch.optim.Optimizer,
     loss_fn: nn.Module = nn.CrossEntropyLoss(),
-    epochs: int = 5,
+    epochs: int = 20,
     device="cpu",
 ):
     device = torch.device(device)
