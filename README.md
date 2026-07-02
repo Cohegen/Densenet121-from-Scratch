@@ -28,6 +28,8 @@ This dense connectivity improves information flow, encourages feature reuse, and
 
 Instead of adding feature maps together as in ResNet, DenseNet concatenates feature maps along the channel dimension. This allows information from earlier layers to be preserved and reused throughout the network.
 
+![pic](https://github.com/Cohegen/Densenet121-from-Scratch/blob/main/assets/densenet.webp)
+
 ---
 
 ## Dense Connectivity Pattern
