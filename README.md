@@ -229,6 +229,8 @@ where:
 
 This progressive growth in the number of channels is a defining characteristic of DenseNet.
 
+![pic](https://github.com/Cohegen/Densenet121-from-Scratch/blob/main/assets/denselayer.png)
+
 ---
 
 ## Transition Layer
